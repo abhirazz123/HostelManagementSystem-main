@@ -33,15 +33,9 @@ To deploy this project follow these steps:
 - Craeting tables by retrieving data from database.
 - Creating sessions.
 
-
-## Demo
-
-Demo for Frontend:
-https://hmsmini.herokuapp.com/
-
 ## Authors
 
-- [@Dasarikarthik](https://github.com/abhirazz123)
+- [@Abhishek_kumar](https://github.com/abhirazz123)
  
 
 
